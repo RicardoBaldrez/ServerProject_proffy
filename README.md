@@ -9,5 +9,5 @@
 
 - Rota para criar uma aula;
 - Rota para listar aulas;
-    - Filtrar pro matéria, dia da semana e horário;
+    - Filtrar por matéria, dia da semana e horário;
 
